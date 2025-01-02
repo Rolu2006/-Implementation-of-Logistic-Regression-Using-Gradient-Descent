@@ -73,6 +73,7 @@ y_prednew=predict(theta,xnew)
 print("Predicted Result:",y_prednew)
 ```
 ## Output:
+```
 ![logistic regression using gradient descent](sam.png)
 
 gender	ssc_p	ssc_b	hsc_p	hsc_b	hsc_s	degree_p	degree_t	workex	etest_p	specialisation	mba_p	status
@@ -104,6 +105,7 @@ Actual:
  1 0 1 1 1 1 1 0 1 1 0 0 1 0 1 1 1 0 1 0 0 0 0 1 1 0 1 0 1 1 1 0 1 0 0 1 0
  1 0 1 0 0 0 1 1 1 0 1 1 1 0 1 1 0 1 1 1 1 0 1 0 1 1 1 1 1 0]
 Predicted Result: [1]
+```
 
 
 
